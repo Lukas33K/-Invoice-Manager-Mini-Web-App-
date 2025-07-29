@@ -18,13 +18,13 @@ Jednoduchá PHP aplikace pro vystavování faktur bez databáze. Vhodná jako uk
 ## 🖼️ Náhled aplikace
 
 ### Vystavení faktury
-![Vystavení faktury](screenshots/faktura1.png)
+![Vystavení faktury](screenshots/faktura1.PNG)
 
 ### Přidávání více položek
-![Více položek](screenshots/faktura3.png)
+![Více položek](screenshots/faktura3.PNG)
 
 ### Uložené faktury
-![Uložené faktury](screenshots/faktura2.png)
+![Uložené faktury](screenshots/faktura2.PNG)
 
 ---
 
