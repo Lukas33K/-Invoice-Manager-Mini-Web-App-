@@ -1,0 +1,53 @@
+[
+    {
+        "client": "Pavel",
+        "date": "2025-06-12",
+        "items": [
+            {
+                "name": "oprava",
+                "qty": 5,
+                "price": 99999.99,
+                "subtotal": 499999.95
+            }
+        ],
+        "total": 499999.95,
+        "vat": 104999.9895,
+        "total_with_vat": 604999.9395
+    },
+    {
+        "client": "pavel",
+        "date": "2025-06-13",
+        "items": [
+            {
+                "name": "kaskkdas",
+                "qty": 5,
+                "price": 10000,
+                "subtotal": 50000
+            }
+        ],
+        "total": 50000,
+        "vat": 10500,
+        "total_with_vat": 60500
+    },
+    {
+        "client": "dana",
+        "date": "2025-06-13",
+        "items": [
+            {
+                "name": "sklenicky",
+                "qty": 20,
+                "price": 5000,
+                "subtotal": 100000
+            },
+            {
+                "name": "vazy",
+                "qty": 5,
+                "price": 50000,
+                "subtotal": 250000
+            }
+        ],
+        "total": 350000,
+        "vat": 73500,
+        "total_with_vat": 423500
+    }
+]
